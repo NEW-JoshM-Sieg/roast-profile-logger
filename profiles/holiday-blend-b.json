@@ -1,0 +1,10 @@
+{
+  "roast": "Holiday Blend B",
+  "style": "light-medium",
+  "components": ["Ethiopia Yirgacheffe (Grade 1, washed)", "Colombia Huila"],
+  "ratio": "60/40",
+  "charge_temp_c": 200,
+  "first_crack_seconds": 555,
+  "total_seconds": 690,
+  "development_seconds": 135
+}
